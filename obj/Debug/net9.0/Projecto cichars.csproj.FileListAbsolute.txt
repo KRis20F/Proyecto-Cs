@@ -1,0 +1,14 @@
+C:\Users\krisg\Documents\Projecto cichars\bin\Debug\net9.0\Projecto cichars.exe
+C:\Users\krisg\Documents\Projecto cichars\bin\Debug\net9.0\Projecto cichars.deps.json
+C:\Users\krisg\Documents\Projecto cichars\bin\Debug\net9.0\Projecto cichars.runtimeconfig.json
+C:\Users\krisg\Documents\Projecto cichars\bin\Debug\net9.0\Projecto cichars.dll
+C:\Users\krisg\Documents\Projecto cichars\bin\Debug\net9.0\Projecto cichars.pdb
+C:\Users\krisg\Documents\Projecto cichars\obj\Debug\net9.0\Projecto cichars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisg\Documents\Projecto cichars\obj\Debug\net9.0\Projecto cichars.AssemblyInfoInputs.cache
+C:\Users\krisg\Documents\Projecto cichars\obj\Debug\net9.0\Projecto cichars.AssemblyInfo.cs
+C:\Users\krisg\Documents\Projecto cichars\obj\Debug\net9.0\Projecto cichars.csproj.CoreCompileInputs.cache
+C:\Users\krisg\Documents\Projecto cichars\obj\Debug\net9.0\Projecto cichars.dll
+C:\Users\krisg\Documents\Projecto cichars\obj\Debug\net9.0\refint\Projecto cichars.dll
+C:\Users\krisg\Documents\Projecto cichars\obj\Debug\net9.0\Projecto cichars.pdb
+C:\Users\krisg\Documents\Projecto cichars\obj\Debug\net9.0\Projecto cichars.genruntimeconfig.cache
+C:\Users\krisg\Documents\Projecto cichars\obj\Debug\net9.0\ref\Projecto cichars.dll

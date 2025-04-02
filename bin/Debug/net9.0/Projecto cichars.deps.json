@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Projecto cichars/1.0.0": {
+        "runtime": {
+          "Projecto cichars.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projecto cichars/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
